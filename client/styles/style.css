@@ -1,10 +1,12 @@
 div.departure {
+  padding-top: 60px;
   position: absolute;
   z-index: 1;
   left: 40px;
 }
 
 div.destination {
+  padding-top: 60px;
   position: relative;
   left: 40px;
   top: 40px;
@@ -13,7 +15,7 @@ div.destination {
 
 div.tooltip {
   position: absolute;
-  width: relative;                  
+  width: relative;
   height: relative;                 
   padding: 2px;             
   font: 12px sans-serif;        
